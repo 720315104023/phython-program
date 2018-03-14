@@ -1,6 +1,6 @@
 user_input = input("Enter something:")
 
 if type(user_input) == int:
-    print("Is a number")
+    print("yes")
 else:
-    print("Not a number")
+    print("No")
